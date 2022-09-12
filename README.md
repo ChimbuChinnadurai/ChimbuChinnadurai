@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, welcome to my profile</h1>
+<h3 align="center">My name is Chimbu Chinnadurai and I'm passionate about cloud native technologies, containers, Kubernetes and multi-cloud.</h3>
+
+- 💬 Ask me about **GCP, AWS, Kubernetes,Docker,Terraform,Microservices**
+
+- 📫 How to reach me **simbu1290@gmail.com**
+
+
+
 
 <!--
 **ChimbuChinnadurai/ChimbuChinnadurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
