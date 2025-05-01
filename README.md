@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **simbu1290@gmail.com**
 
-
-
+<a href="https://medium.com/@chimbu"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" height="30"/></a>
+<a href="https://www.linkedin.com/in/chimbu"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30"/></a>
 
 <!--
 **ChimbuChinnadurai/ChimbuChinnadurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
