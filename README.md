@@ -3,10 +3,10 @@
 
 - 💬 Ask me about **GCP,AWS,Kubernetes,Docker,Microservices**
 
-<a href="mailto:simbu1290@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30"/></a>
-<a href="https://www.linkedin.com/in/chimbu"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30"/></a>
-<a href="https://medium.com/@chimbu"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" height="30"/></a>
-<a href="https://x.com/simbu_durai"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="30"/></a>
+<a href="mailto:simbu1290@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30"/></a>
+<a href="https://www.linkedin.com/in/chimbu" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30"/></a>
+<a href="https://medium.com/@chimbu" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" height="30"/></a>
+<a href="https://x.com/simbu_durai" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="30"/></a>
 
 
 <!--
