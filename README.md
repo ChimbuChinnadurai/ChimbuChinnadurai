@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, welcome to my profile</h1>
 <h3 align="center">My name is Chimbu Chinnadurai and I'm passionate about cloud native technologies, containers, Kubernetes and multi-cloud.</h3>
 
-- 💬 Ask me about **GCP, AWS, Kubernetes,Docker,Terraform,Microservices**
+- 💬 Ask me about **GCP,AWS,Kubernetes,Docker,Microservices**
 
-- 📫 How to reach me **simbu1290@gmail.com**
-
-<a href="https://medium.com/@chimbu"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" height="30"/></a>
+<a href="mailto:simbu1290@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30"/></a>
 <a href="https://www.linkedin.com/in/chimbu"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30"/></a>
+<a href="https://medium.com/@chimbu"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" height="30"/></a>
+<a href="https://x.com/simbu_durai"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="30"/></a>
+
 
 <!--
 **ChimbuChinnadurai/ChimbuChinnadurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
